@@ -19,15 +19,15 @@ pip install ffcv opencv-python
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/ffcv-object-detection-example.git
+  git clone https://github.com/NikitaGubanov0/ffcv_presentation.git
 
 2. Change into the project directory:
 
-cd ffcv-object-detection-example
+  cd ffcv-object-detection-example
 
 3. Run the object detection script:
 
-python object_detection.py
+  python object_detection.py
 
 
 The script will display the input image with detected objects outlined by boundi

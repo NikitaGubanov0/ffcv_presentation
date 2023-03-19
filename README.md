@@ -32,6 +32,6 @@ pip install ffcv
 3. Run the ipynb file.
 
 
-If you are using Google Colab simply do !wget https://raw.githubusercontent.com/NikitaGubanov0/ffcv_presentation/main/ffcv_presentation.ipynb open it in colab and run it.
+If you are using Google Colab simply do ``` !wget https://raw.githubusercontent.com/NikitaGubanov0/ffcv_presentation/main/ffcv_presentation.ipynb ``` open it in colab and run it.
 
 

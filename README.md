@@ -13,7 +13,11 @@ This repository contains a simple example of using the FFCV library for object d
 1. Install Python 3.6 or higher if not already installed.
 2. Install FFCV and OpenCV using pip:
 
-pip install ffcv opencv-python
+```
+conda create -y -n ffcv python=3.9 cupy pkg-config compilers libjpeg-turbo opencv pytorch torchvision cudatoolkit=11.3 numba -c pytorch -c conda-forge
+conda activate ffcv
+pip install ffcv
+```
 
 ## Running the example
 

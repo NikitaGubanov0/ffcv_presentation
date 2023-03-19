@@ -29,9 +29,9 @@ pip install ffcv
 
   cd ffcv-object-detection-example
 
-3. Run the object detection script:
-
-  python object_detection.py
+3. Run the ipynb file.
 
 
-The script will display the input image with detected objects outlined by boundi
+If you are using Google Colab simply do !wget 
+
+
